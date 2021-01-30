@@ -3,10 +3,6 @@ github.com/StackExchange/wmi
 # github.com/go-ole/go-ole v1.2.4
 github.com/go-ole/go-ole
 github.com/go-ole/go-ole/oleutil
-# github.com/shirou/gopsutil v3.20.12+incompatible
-## explicit
-github.com/shirou/gopsutil/cpu
-github.com/shirou/gopsutil/internal/common
 # github.com/shirou/gopsutil/v3 v3.20.12
 ## explicit
 github.com/shirou/gopsutil/v3/cpu
